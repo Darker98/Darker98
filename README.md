@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend-focused, building scalable APIs and exploring performance-critical systems.<br>Interested in building secure and reliable backend architectures.<br>Always in learning mode.<br>Outside of tech: gaming and the gym.<br>
+Backend and systems-focused.<br>My interests: scalability, performance-criticality, fault-tolerance<br>Looking to build secure, scalable, and reliable backend architectures and systems.<br>I tackle unique problems and love challenges. Always in learning mode.<br>Outside of tech: gaming and the gym.<br>Feel free to reach out to me on my email or socials.<br>
 
 
 ## 🌐 Socials:
